@@ -1,0 +1,8 @@
+[functions.geocode]
+verify_jwt = false
+
+[functions.analyze]
+verify_jwt = false
+
+[functions.solar]
+verify_jwt = false
